@@ -56,6 +56,43 @@ h1{
     font-size: 15px;
 }
 
-p, li{
+p, li, table{
     font-size: 20px;
+}
+
+table{
+    text-align: center;
+}
+
+.riga-principale{
+  background-color: #20A9E5;
+  color: rgb(255, 255, 255);
+}
+
+.prima-e-terza-riga{
+    background-color: #B1E5F2;
+}
+
+.span-footer{
+    color: grey;
+    margin-left: 5px;
+    font-size: 18px;
+}
+
+.first-div-footer{
+    background-image: url("./img/monitor.jpg");
+    height: 200px;
+    background-repeat: no-repeat;
+}
+
+.lorem-finale{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    margin-left: 15px;
+}
+
+.second-div-footer{
+    background-image: url("./img/graph.jpg");
+    height: 200px;
+    background-repeat: no-repeat;
 }
