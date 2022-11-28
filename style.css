@@ -41,3 +41,16 @@ h1{
     color: grey;
     margin-left: 5px;
 }
+
+#img-dimension{
+    width: 50%;    
+}
+
+#img-dimension2{
+    width: 45%;
+    height: 448px;
+}
+
+.photo-description{
+    font-size: 15px;
+}
