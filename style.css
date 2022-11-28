@@ -1,4 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 .pattern{
     background-color: #4890E4;
-    text-align: center;
+    background-image: url("./img/pattern.png");
+    height: 200px;
+}
+
+#logo{
+    width: 220px;
+    margin-top: 130px;
+}
+
+.five-px{
+    margin-left: 5px;
+}
+
+h1{ 
+    font-size: 50px;
+}
+
+#booleaner-blu{
+    color: #1BA7E4;
+}
+
+.scritta-grey{
+    color: grey;
+    margin-left: 5px;
+}
+
+
+.scritta-grey, #booleaner-blu{
+    font-size: 24px;
+}
+
+#smaller-font{
+    font-size: 15px;
+    color: grey;
+    margin-left: 5px;
 }
