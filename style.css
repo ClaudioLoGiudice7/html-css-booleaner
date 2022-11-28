@@ -12,6 +12,7 @@
 #logo{
     width: 220px;
     margin-top: 130px;
+    margin-left: 5px;
 }
 
 .five-px{
@@ -53,4 +54,8 @@ h1{
 
 .photo-description{
     font-size: 15px;
+}
+
+p, li{
+    font-size: 20px;
 }
