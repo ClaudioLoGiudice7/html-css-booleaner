@@ -60,8 +60,10 @@ p, li, table{
     font-size: 20px;
 }
 
-table{
-    text-align: center;
+#table-border{
+    text-align: left;
+    border-collapse: collapse;
+    font-size: 20px;
 }
 
 .riga-principale{
